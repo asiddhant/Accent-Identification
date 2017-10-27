@@ -1,0 +1,4 @@
+0.590753 with: {'n_components': 7} 
+0.590753 with: {'n_components': 8} 
+0.590753 with: {'n_components': 9} 
+Best: 0.590753 using {'n_components': 7}

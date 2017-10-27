@@ -1,0 +1,13 @@
+0.164516 with: {'C': 1, 'gamma': 0.1} 
+0.343548 with: {'C': 1, 'gamma': 0.5} 
+0.338710 with: {'C': 1, 'gamma': 1} 
+0.266129 with: {'C': 1, 'gamma': 2} 
+0.350000 with: {'C': 5, 'gamma': 0.1} 
+0.346774 with: {'C': 5, 'gamma': 0.5} 
+0.358065 with: {'C': 5, 'gamma': 1} 
+0.309677 with: {'C': 5, 'gamma': 2} 
+0.327419 with: {'C': 10, 'gamma': 0.1} 
+0.343548 with: {'C': 10, 'gamma': 0.5} 
+0.358065 with: {'C': 10, 'gamma': 1} 
+0.309677 with: {'C': 10, 'gamma': 2} 
+Best: 0.358065 using {'C': 5, 'gamma': 1}

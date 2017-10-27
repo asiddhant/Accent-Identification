@@ -1,0 +1,9 @@
+0.535959 with: {'penalty': 'l1', 'C': 1} 
+0.600171 with: {'penalty': 'l2', 'C': 1} 
+0.569349 with: {'penalty': 'l1', 'C': 2} 
+0.605308 with: {'penalty': 'l2', 'C': 2} 
+0.574486 with: {'penalty': 'l1', 'C': 4} 
+0.603596 with: {'penalty': 'l2', 'C': 4} 
+0.554795 with: {'penalty': 'l1', 'C': 8} 
+0.592466 with: {'penalty': 'l2', 'C': 8} 
+Best: 0.605308 using {'penalty': 'l2', 'C': 2}
