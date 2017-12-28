@@ -12,4 +12,3 @@ audio,sr=librosa.load(filepath+filename[0])
 mfcc=librosa.feature.mfcc(y=audio,sr=sr,n_mfcc=13)
 mfcd=librosa.feature.delta(mfcc)
 mfdd=librosa.feature.delta(mfcd)
-fv=
